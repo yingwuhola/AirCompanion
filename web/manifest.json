@@ -1,6 +1,6 @@
 {
-    "name": "mqtt_flutter",
-    "short_name": "mqtt_flutter",
+    "name": "aircompanion",
+    "short_name": "aircompanion",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
