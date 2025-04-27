@@ -102,7 +102,7 @@
 		</data>
 		<key>Frameworks/Flutter.framework/Flutter</key>
 		<data>
-		4quGlub/IwnoqEYVFRSdPvyu8gU=
+		NUynns6FWA9nGjsRB9vvowe92BY=
 		</data>
 		<key>Frameworks/Flutter.framework/Headers/Flutter.h</key>
 		<data>
@@ -174,7 +174,7 @@
 		</data>
 		<key>Frameworks/Flutter.framework/Info.plist</key>
 		<data>
-		Fn6CJcrmOY7R/UCpVvDdwVm3fwA=
+		0jXQ5vZwydkAYplqGsks5UWxAuk=
 		</data>
 		<key>Frameworks/Flutter.framework/Modules/module.modulemap</key>
 		<data>
@@ -186,7 +186,7 @@
 		</data>
 		<key>Frameworks/Flutter.framework/_CodeSignature/CodeResources</key>
 		<data>
-		DL4bsE6gOoPUAg6JuKJAbSJtTaY=
+		SQuQawhr1DzE3LayRIYG8ccB9sU=
 		</data>
 		<key>Frameworks/Flutter.framework/icudtl.dat</key>
 		<data>
@@ -194,7 +194,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		h34AO5XNAm2yerIAsEsRmT1aNd4=
+		saVyc1uAXo+HukL37wwVTFf8aVY=
 		</data>
 		<key>PkgInfo</key>
 		<data>
@@ -202,7 +202,7 @@
 		</data>
 		<key>Runner.debug.dylib</key>
 		<data>
-		bOmZpODr3Q0PRkgMhSbYUL+QBks=
+		ShnsnN9ODJRHda+FVYAEVhsA0Uk=
 		</data>
 		<key>__preview.dylib</key>
 		<data>
@@ -383,7 +383,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Lc7KV1yE5k27Y+TUIs3vims36oZVZ77QJp+19LMMnP0=
+			rUb8ueOXAjzdI80Hl83CILQjiBoa79i6sfhsot4peP0=
 			</data>
 		</dict>
 		<key>Frameworks/Flutter.framework/Headers/Flutter.h</key>
@@ -509,7 +509,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			v075kvkyPu8t6WRfJ+yP6wJjwWRMctNxq8i7q37e0U0=
+			y+eF4jzwPHfVcnYSAagSNdMOhoYsF6X2Q3HQT9wi5tE=
 			</data>
 		</dict>
 		<key>Frameworks/Flutter.framework/Modules/module.modulemap</key>
@@ -530,7 +530,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			9dHVR01bZ2BYcHmcZg2ujaVI5AEgH+42skJ864Cy8oY=
+			XTrflKYMORAy7nM4/eeJjcc8f6FQRgPxiVXSn0OTP7o=
 			</data>
 		</dict>
 		<key>Frameworks/Flutter.framework/icudtl.dat</key>
@@ -544,7 +544,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			pO6e2E4+vA6Lsoep4Xw6C5ZL4DyM59Ru8a/C262vkbk=
+			1TPRMvjXjZrJ93gs98Q2uuw5t9fO5YcAcp1UV+YGsXw=
 			</data>
 		</dict>
 		<key>__preview.dylib</key>

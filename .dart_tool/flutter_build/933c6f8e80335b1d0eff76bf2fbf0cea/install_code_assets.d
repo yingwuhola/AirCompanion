@@ -1,0 +1,1 @@
+ /Users/wuy/Documents/GitHub/RiseUp/.dart_tool/flutter_build/933c6f8e80335b1d0eff76bf2fbf0cea/native_assets.json: 
