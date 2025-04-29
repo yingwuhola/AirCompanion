@@ -392,12 +392,14 @@ class _EnhancedPollutantTile extends StatelessWidget {
   
   String _getPollutantName(String code) {
     switch (code.toLowerCase()) {
-      case 'pm25': return 'Fine Particles';
-      case 'pm10': return 'Coarse Particles';
-      case 'o3': return 'Ozone';
-      case 'no2': return 'Nitrogen Dioxide';
-      case 'so2': return 'Sulfur Dioxide';
       case 'co': return 'Carbon Monoxide';
+      case 'no': return 'Nitric Oxide';
+      case 'no2': return 'Nitrogen Dioxide';
+      case 'o3': return 'Ozone';
+      case 'so2': return 'Sulfur Dioxide';
+      case 'pm2.5': return 'Fine Particles';
+      case 'pm10': return 'Coarse Particles';
+      case 'nh3': return 'Ammonia';
       default: return '';
     }
   }

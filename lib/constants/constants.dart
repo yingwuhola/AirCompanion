@@ -5,7 +5,13 @@ import '../models/pollution_level.dart';
 class Constants {
   static const spCity = "SpCity";
   // aqi等级描述
-  static const Map aqiLevel = {1: "Good", 2: "Fair", 3: "Moderate", 4: "Poor", 5: "Very Poor"};
+  static const Map aqiLevel = {
+    1: "Good",
+    2: "Fair",
+    3: "Moderate",
+    4: "Poor",
+    5: "Very Poor",
+  };
   // aqi等级颜色
   static const aqiColor = {
     1: Colors.green,
@@ -16,12 +22,19 @@ class Constants {
   };
 
   static const pollutionLevels = {
-    'so2': [
-      PollutionLevel(color: Colors.green, min: 0, max: 20),
-      PollutionLevel(color: Colors.yellow, min: 20, max: 80),
-      PollutionLevel(color: Colors.orange, min: 80, max: 250),
-      PollutionLevel(color: Colors.deepOrange, min: 250, max: 350),
-      PollutionLevel(color: Colors.red, min: 350),
+    'co': [
+      PollutionLevel(color: Colors.green, min: 0, max: 4400),
+      PollutionLevel(color: Colors.yellow, min: 4400, max: 9400),
+      PollutionLevel(color: Colors.orange, min: 9400, max: 12400),
+      PollutionLevel(color: Colors.deepOrange, min: 12400, max: 15400),
+      PollutionLevel(color: Colors.red, min: 15400),
+    ],
+    'no': [
+      PollutionLevel(color: Colors.green, min: 0, max: 50),
+      PollutionLevel(color: Colors.yellow, min: 50, max: 100),
+      PollutionLevel(color: Colors.orange, min: 100, max: 200),
+      PollutionLevel(color: Colors.deepOrange, min: 200, max: 400),
+      PollutionLevel(color: Colors.red, min: 400),
     ],
     'no2': [
       PollutionLevel(color: Colors.green, min: 0, max: 40),
@@ -30,12 +43,19 @@ class Constants {
       PollutionLevel(color: Colors.deepOrange, min: 150, max: 200),
       PollutionLevel(color: Colors.red, min: 200),
     ],
-    'pm10': [
+    'o3': [
+      PollutionLevel(color: Colors.green, min: 0, max: 60),
+      PollutionLevel(color: Colors.yellow, min: 60, max: 100),
+      PollutionLevel(color: Colors.orange, min: 100, max: 140),
+      PollutionLevel(color: Colors.deepOrange, min: 140, max: 180),
+      PollutionLevel(color: Colors.red, min: 180),
+    ],
+    'so2': [
       PollutionLevel(color: Colors.green, min: 0, max: 20),
-      PollutionLevel(color: Colors.yellow, min: 20, max: 50),
-      PollutionLevel(color: Colors.orange, min: 50, max: 100),
-      PollutionLevel(color: Colors.deepOrange, min: 100, max: 200),
-      PollutionLevel(color: Colors.red, min: 200),
+      PollutionLevel(color: Colors.yellow, min: 20, max: 80),
+      PollutionLevel(color: Colors.orange, min: 80, max: 250),
+      PollutionLevel(color: Colors.deepOrange, min: 250, max: 350),
+      PollutionLevel(color: Colors.red, min: 350),
     ],
     'pm2_5': [
       PollutionLevel(color: Colors.green, min: 0, max: 10),
@@ -44,20 +64,19 @@ class Constants {
       PollutionLevel(color: Colors.deepOrange, min: 50, max: 75),
       PollutionLevel(color: Colors.red, min: 75),
     ],
-    'o3': [
-      PollutionLevel(color: Colors.green, min: 0, max: 60),
-      PollutionLevel(color: Colors.yellow, min: 60, max: 100),
-      PollutionLevel(color: Colors.orange, min: 100, max: 140),
-      PollutionLevel(color: Colors.deepOrange, min: 140, max: 180),
-      PollutionLevel(color: Colors.red, min: 180),
+    'pm10': [
+      PollutionLevel(color: Colors.green, min: 0, max: 20),
+      PollutionLevel(color: Colors.yellow, min: 20, max: 50),
+      PollutionLevel(color: Colors.orange, min: 50, max: 100),
+      PollutionLevel(color: Colors.deepOrange, min: 100, max: 200),
+      PollutionLevel(color: Colors.red, min: 200),
     ],
-    'co': [
-      PollutionLevel(color: Colors.green, min: 0, max: 4400),
-      PollutionLevel(color: Colors.yellow, min: 4400, max: 9400),
-      PollutionLevel(color: Colors.orange, min: 9400, max: 12400),
-      PollutionLevel(color: Colors.deepOrange, min: 12400, max: 15400),
-      PollutionLevel(color: Colors.red, min: 15400),
+    'nh3': [
+      PollutionLevel(color: Colors.green, min: 0, max: 200),
+      PollutionLevel(color: Colors.yellow, min: 200, max: 400),
+      PollutionLevel(color: Colors.orange, min: 400, max: 800),
+      PollutionLevel(color: Colors.deepOrange, min: 800, max: 1200),
+      PollutionLevel(color: Colors.red, min: 1200),
     ],
   };
 }
-

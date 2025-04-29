@@ -16,7 +16,7 @@ class Http {
         receiveTimeout: const Duration(seconds: 10),
         sendTimeout: const Duration(seconds: 5),
         connectTimeout: const Duration(seconds: 10),
-        queryParameters: {"apikey": "mykey"},
+        queryParameters: {"appid": "mykey"},
       ),
     );
   }
