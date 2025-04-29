@@ -5,7 +5,7 @@ Your smart companion for every breath.
 ## Overview
 AirCompanion is a real-time air quality companion that allows you to search any city worldwide and instantly view its live AQI index and eight key pollutant levels. It also provides 20-hour forecasts for AQI and pollutant trends, helping you plan commutes, workouts, or travel during the healthiest air periods. On the detailed page, health tips are available, including mask reminders and window-opening suggestions.
 
-# Target user
+## Target user
 <img src="docs/sc2.png" alt="" width="300">  <img src="docs/sc1.png" alt="" width="300">
 
 1.Outdoor Enthusiasts (Runners, Cyclists, Hikers, Fitness Lovers)
@@ -15,7 +15,7 @@ AirCompanion is a real-time air quality companion that allows you to search any 
 2.Individuals with Respiratory Conditions
 <br>Scenario: A parent of a child with asthma checks AirCompanion every morning to decide whether the child should wear a mask on the way to school.
 
-# Key Features
+## Key Features
 1. Multi-City Search and Management
 Instantly retrieve live AQI for major cities worldwide.
 2.Live Air-Quality Dashboard
@@ -42,15 +42,10 @@ Personalized recommendations—mask usage, best time slots for exercise, window-
 2.delete button
 3.dark mode
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Installation
+1.Clone repositroy:
+'git clone https://github.com/yingwuhola/AirCompanion.git'
+2.Enter the code base directory from the command line
+'cd AirCompanion'
+3.Install all necessary dependencies
+'flutter pub get'
