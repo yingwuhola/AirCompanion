@@ -1,4 +1,5 @@
 # AirCompanion
+<img src="docs/logo.png" alt="" width="400"> 
 Your smart companion for every breath.
 # Overview
 
