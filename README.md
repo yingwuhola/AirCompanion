@@ -24,7 +24,12 @@ Presents indices more intuitively through a dashboard interface, with real-time 
 Provides 20-hour forecasts of city AQI and pollutant levels, presented with intuitive curves for clear visualization.
 4. Health Tips
 Personalized recommendations—mask usage, best time slots for exercise, window-open alerts.
-<img src="docs/splash.png" alt="" width="80"> <img src="docs/home1.png" alt="" width="80"> <img src="docs/city.png" alt="" width="80">
+
+<img src="docs/splash.png" alt="" width="200">
+
+<img src="docs/home1.png" alt="" width="200">
+
+<img src="docs/city.png" alt="" width="200">
 
 ## Getting Started
 
