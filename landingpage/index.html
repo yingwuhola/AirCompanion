@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>AirCompanion - Your smart companion for every breath</title>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap" rel="stylesheet">
+
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Poppins', sans-serif;
+      background-color: #f5f5f5;
+      color: #333;
+      text-align: center;
+    }
+    header {
+      background-color: #7d7d7d;
+      padding: 40px 20px;
+    }
+    header img {
+      width: 100px;
+      border-radius: 20px;
+    }
+    header h1 {
+      font-size: 2.5rem;
+      color: white;
+      margin-top: 20px;
+    }
+    section {
+      padding: 40px 20px;
+      max-width: 800px;
+      margin: auto;
+    }
+    .features {
+      display: flex;
+      flex-direction: column;
+      gap: 20px;
+      margin-top: 30px;
+    }
+    .feature-card {
+      background: white;
+      padding: 20px;
+      border-radius: 12px;
+      box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+      text-align: left;
+    }
+    .demo {
+      margin-top: 30px;
+    }
+    .cta {
+      margin-top: 40px;
+    }
+    .cta button {
+      background-color: #8ca9a0;
+      border: none;
+      padding: 15px 30px;
+      color: white;
+      font-size: 18px;
+      border-radius: 8px;
+      cursor: pointer;
+    }
+    footer {
+      margin-top: 50px;
+      font-size: 14px;
+      color: #777;
+    }
+  </style>
+</head>
+
+<body>
+
+<header>
+  <h1>AirCompanion</h1>
+  <p>Your smart companion for every breath</p>
+</header>
+
+<section>
+  <h2>🌟 Features</h2>
+
+  <div class="features">
+    <div class="feature-card">
+      <h3>Multi-City Search and Management</h3>
+    </div>
+    <div class="feature-card">
+      <h3>Live Air-Quality Dashboard</h3>
+    </div>
+    <div class="feature-card">
+      <h3>20-Hour Forecast</h3>
+    </div>
+    <div class="feature-card">
+      <h3>Health Tips</h3>
+    </div>
+  </div>
+
+<!-- ======= App Screens Row ======= -->
+<style>
+  /* 容器：固定 5 列，窄屏时允许横向滚动 */
+  .app-screens-row{
+    display: grid;
+    grid-template-columns: repeat(5, minmax(0, 1fr));
+    gap: 24px;                   /* 卡片间距 */
+    overflow-x: auto;            /* 小屏幕水平滚动 */
+    padding: 20px 0;             /* 上下留白 */
+  }
+
+  /* 图片样式 */
+  .app-screens-row img{
+    width: 100%;
+    height: auto;                /* 保例纵横比 */
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0,0,0,.08);
+    cursor: pointer;
+    transition: transform .25s ease;
+  }
+
+  /* hover 略微放大，增强交互感 */
+  .app-screens-row img:hover{
+    transform: scale(1.05);
+  }
+
+  /* 可选：窄屏时把阴影弱化一点 */
+  @media (max-width: 600px){
+    .app-screens-row img{ box-shadow: 0 2px 6px rgba(0,0,0,.06); }
+  }
+</style>
+
+<div class="app-screens-row">
+  <img src="assets/images/a.png" alt="App screen A">
+  <img src="assets/images/b.png" alt="App screen B">
+  <img src="assets/images/c.png" alt="App screen C">
+
+</div>
+
+<div class="app-screens-row">
+  <img src="assets/images/d.png" alt="App screen F">
+  <img src="assets/images/e.png" alt="App screen G">
+  <img src="assets/images/f.png" alt="App screen H">
+  <img src="assets/images/g.png" alt="App screen I">
+</div>
+
+<div class="app-screens-row">
+  <img src="assets/images/i.png" alt="App screen F">
+<!-- ===== End App Screens Row ===== -->
+
+
+
+</section>
+
+
+
+</body>
+</html>
