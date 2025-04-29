@@ -8,7 +8,7 @@ AirCompanion is a real-time air quality companion that allows you to search any 
 # Target user
 <img src="docs/sc2.png" alt="" width="300">  <img src="docs/sc1.png" alt="" width="300">
 
-1. Outdoor Enthusiasts (Runners, Cyclists, Hikers, Fitness Lovers)
+1.Outdoor Enthusiasts (Runners, Cyclists, Hikers, Fitness Lovers)
 <br>Scenario A: Before going for a morning run, a cyclist quickly checks the 20-hour AQI forecast on AirCompanion to find the cleanest air window for training.
 <br>Scenario B: A hiker plans a weekend trip and uses AirCompanion to compare air quality between two nearby cities, choosing the destination with healthier air for the hike.
 
@@ -36,6 +36,11 @@ Personalized recommendations—mask usage, best time slots for exercise, window-
   <img src="docs/detail2.png" width="23%">
   <img src="docs/detail3.png" width="23%">
 </p>
+
+## Interactive Widgets
+1.refresh button
+2.delete button
+3.dark mode
 
 ## Getting Started
 
