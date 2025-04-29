@@ -1,8 +1,8 @@
 # AirCompanion
-<img src="docs/logo.png" alt="" width="400"> 
+<img src="docs/logo.png" alt="" width="100"> 
 Your smart companion for every breath.
-# Overview
 
+## Overview
 AirCompanion is a real-time air quality companion that allows you to search any city worldwide and instantly view its live AQI index and eight key pollutant levels. It also provides 20-hour forecasts for AQI and pollutant trends, helping you plan commutes, workouts, or travel during the healthiest air periods. On the detailed page, health tips are available, including mask reminders and window-opening suggestions.
 
 # Target user
