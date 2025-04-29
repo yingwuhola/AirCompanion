@@ -6,10 +6,11 @@ AirCompanion is a real-time air quality companion that allows you to search any 
 
 # Target user
 1. Outdoor Enthusiasts (Runners, Cyclists, Hikers, Fitness Lovers)
-Scenario: Before going for a morning run, a cyclist quickly checks the 20-hour AQI forecast on AirCompanion to find the cleanest air window for training.
-Scenario: A hiker plans a weekend trip and uses AirCompanion to compare air quality between two nearby cities, choosing the destination with healthier air for the hike.
+<br>Scenario A: Before going for a morning run, a cyclist quickly checks the 20-hour AQI forecast on AirCompanion to find the cleanest air window for training.
+<br>Scenario B: A hiker plans a weekend trip and uses AirCompanion to compare air quality between two nearby cities, choosing the destination with healthier air for the hike.
+<img src="src/images/scenarioA.png" alt="" width="400">  
 2.Individuals with Respiratory Conditions
-Scenario: A parent of a child with asthma checks AirCompanion every morning to decide whether the child should wear a mask on the way to school.
+<br>Scenario: A parent of a child with asthma checks AirCompanion every morning to decide whether the child should wear a mask on the way to school.
 
 ## Getting Started
 
