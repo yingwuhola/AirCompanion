@@ -26,13 +26,16 @@ Provides 20-hour forecasts of city AQI and pollutant levels, presented with intu
 Personalized recommendations—mask usage, best time slots for exercise, window-open alerts.
 
 <p align="center">
-  <img src="docs/splash.png" width="30%">
-  <img src="docs/home1.png" width="30%">
-  <img src="docs/city.png" width="30%">
+  <img src="docs/splash.png" width="23%">
+  <img src="docs/home1.png" width="23%">
+  <img src="docs/city.png" width="23%">
 </p>
-
-<img src="docs/splash.png" alt="" width="200">
-<img src="docs/home1.png" alt="" width="200"><img src="docs/city.png" alt="" width="200">
+<p align="center">
+  <img src="docs/home2.png" width="23%">
+  <img src="docs/detail1.png" width="23%">
+  <img src="docs/detail2.png" width="23%">
+  <img src="docs/detail3.png" width="23%">
+</p>
 
 ## Getting Started
 
