@@ -44,10 +44,13 @@ Personalized recommendations—mask usage, best time slots for exercise, window-
 
 ## Installation
 1.Clone repositroy:
+
 `git clone https://github.com/yingwuhola/AirCompanion.git`
 
 2.Enter the code base directory from the command line
+
 `cd AirCompanion`
 
 3.Install all necessary dependencies
+
 `flutter pub get`
